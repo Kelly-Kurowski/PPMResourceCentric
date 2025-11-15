@@ -1,0 +1,5 @@
+# Ignore huge XES files
+PPM/*.xes
+
+# Ignore Jupyter checkpoints
+PPM/.ipynb_checkpoints/
