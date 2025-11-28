@@ -1,5 +1,5 @@
 # Ignore huge XES files
-PPM/*.xes
+PPM/*.xesgit push --force --set-upstream origin main
 
 # Ignore Jupyter checkpoints
 PPM/.ipynb_checkpoints/
